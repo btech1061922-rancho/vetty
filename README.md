@@ -1,4 +1,3 @@
-{"variant":"standard","title":"README for SQL Assignment - Vetted Data Engineer Intern","id":"78241"}
 # SQL Assignment – Data Engineer Intern (Vetty)
 
 ## Project Overview
